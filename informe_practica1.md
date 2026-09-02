@@ -27,10 +27,10 @@ El corpus final consolidado contiene **7,200 documentos**, perfectamente balance
 
 **Por fuente:**
 - **Fuente 1 (Web Scraping)**: 200 documentos (100 falsos / 100 verdaderos), 25 de cada clase por contribuidor
-  - **David**: `corpus/web_scraping/David/` - Scraping BBC Mundo con Selenium
-  - **Jessi**: `corpus/web_scraping/Jessi/` - Archivos de salud de Chequeado y ColombiaCheck
-  - **Jonatan**: `corpus/web_scraping/Jonatan/` - Web scraping con notebook implementado
-  - **Josué**: `corpus/web_scraping/Josue/` - Scraping con BeautifulSoup + requests
+  - **Juan David Cortés**: `corpus/web_scraping/David/` - Scraping BBC Mundo con Selenium
+  - **Jessica Paola Vega**: `corpus/web_scraping/Jessi/` - Archivos de salud de Chequeado y ColombiaCheck
+  - **Jonatan Estiven Sánchez**: `corpus/web_scraping/Jonatan/` - Web scraping con notebook implementado
+  - **Josue Duque**: `corpus/web_scraping/Josue/` - Scraping con BeautifulSoup + requests
 
 - **Fuente 2 (Dataset existente)**: `corpus/fuente_2/fuente_2.csv`
   - Corpus español pre-existente de más de 57,000 registros, del cual se muestrearon 7,000 documentos (3,500 falsos / 3,500 verdaderos) para completar el balance final
@@ -385,7 +385,7 @@ corpus/
 ├── 5_tecnicas_aprendizaje/
 │   └── 5_tecnicas.ipynb                # Modelado y evaluación
 ├── web_scraping/
-│   ├── David/, Jessi/, Jonatan/, Josue/ # Contribuciones de scraping
+│   ├── David/, Jessi/, Jonatan/, Josue/ # Contribuciones de scraping (Juan David Cortés, Jessica Paola Vega, Jonatan Estiven Sánchez, Josue Duque)
 ├── fuente_1/                           # Archivos .txt organizados
 │   ├── corpus_falsas/
 │   └── corpus_verdaderas/

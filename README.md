@@ -97,7 +97,7 @@ corpus/
 ├── 3_caracteristicas_bow/    # Extracción Bag-of-Words (matrices .npz, vocabularios .json)
 ├── 4_ponderacion/            # Ponderación TF-IDF
 ├── 5_tecnicas_aprendizaje/   # Entrenamiento y evaluación de los 4 modelos
-├── web_scraping/             # Scripts de scraping por contribuidor (David, Jessi, Jonatan, Josué)
+├── web_scraping/             # Scripts de scraping por contribuidor (Juan David, Jessica, Jonatan, Josué)
 ├── fuente_1/                 # Corpus propio en texto plano (falsas/verdaderas)
 └── fuente_2/                 # Dataset externo en español
 results/                      # Tablas y métricas generadas (CSV, JSON, TXT)
@@ -157,10 +157,10 @@ También disponible como tareas de VS Code (`Ctrl+Shift+P` → `Tasks: Run Task`
 
 ## 👥 Contribuyentes
 
-- David
-- Jessi
-- Jonatan
-- Josué
+- Jessica Paola Vega
+- Juan David Cortés
+- Jonatan Estiven Sánchez
+- Josue Duque
 
 ## 📄 Licencia
 
