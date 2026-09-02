@@ -1,0 +1,388 @@
+{
+  "corpus": {
+    "total_docs": 7200,
+    "balance": {
+      "Verdad": 3600,
+      "Falso": 3600
+    },
+    "fuentes": {
+      "web_scraping": {
+        "verdad": 100,
+        "falso": 100
+      },
+      "corpus_existente": {
+        "verdad": 3500,
+        "falso": 3500
+      }
+    },
+    "longitudes": {
+      "mean": 413.05,
+      "std": 841.81,
+      "min": 103,
+      "q1": 258,
+      "q2": 310,
+      "q3": 370,
+      "max": 20860,
+      "sum": 2973953
+    }
+  },
+  "preprocesamiento": {
+    "lower": true,
+    "tildes": true,
+    "numeros": true,
+    "enlaces": true,
+    "saltos_linea": true,
+    "html": true,
+    "puntuacion_emoticones": true
+  },
+  "features": {
+    "unigramas": true,
+    "bigramas": true,
+    "stopwords": true,
+    "freq_min": 3,
+    "stemming": true,
+    "ponderaciones": [
+      "TO",
+      "TF-IDF"
+    ]
+  },
+  "modelos": [
+    "LR",
+    "DT",
+    "KNN",
+    "SVM"
+  ],
+  "validacion": {
+    "kfold": 10,
+    "split_train": 0.8,
+    "split_test": 0.2
+  },
+  "resultados": [
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ninguna",
+      "accuracy": 0.709,
+      "precision": 0.7091,
+      "recall": 0.709,
+      "f1": 0.709
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ninguna",
+      "accuracy": 0.8356,
+      "precision": 0.8473,
+      "recall": 0.8368,
+      "f1": 0.8356
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ninguna",
+      "accuracy": 0.8637,
+      "precision": 0.8738,
+      "recall": 0.8646,
+      "f1": 0.8637
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ninguna",
+      "accuracy": 0.8597,
+      "precision": 0.8603,
+      "recall": 0.8597,
+      "f1": 0.8597
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stemming",
+      "accuracy": 0.7136,
+      "precision": 0.7148,
+      "recall": 0.7139,
+      "f1": 0.7136
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stemming",
+      "accuracy": 0.8334,
+      "precision": 0.8453,
+      "recall": 0.8347,
+      "f1": 0.8334
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stemming",
+      "accuracy": 0.8569,
+      "precision": 0.8651,
+      "recall": 0.8576,
+      "f1": 0.8569
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stemming",
+      "accuracy": 0.8528,
+      "precision": 0.8528,
+      "recall": 0.8528,
+      "f1": 0.8528
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stopwords",
+      "accuracy": 0.7851,
+      "precision": 0.787,
+      "recall": 0.7854,
+      "f1": 0.7851
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stopwords",
+      "accuracy": 0.8511,
+      "precision": 0.862,
+      "recall": 0.8521,
+      "f1": 0.8511
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stopwords",
+      "accuracy": 0.8729,
+      "precision": 0.8819,
+      "recall": 0.8736,
+      "f1": 0.8729
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TF-IDF",
+      "reduccion": "stopwords",
+      "accuracy": 0.8646,
+      "precision": 0.8648,
+      "recall": 0.8646,
+      "f1": 0.8646
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ambas",
+      "accuracy": 0.774,
+      "precision": 0.7758,
+      "recall": 0.7743,
+      "f1": 0.774
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ambas",
+      "accuracy": 0.8525,
+      "precision": 0.8634,
+      "recall": 0.8535,
+      "f1": 0.8525
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ambas",
+      "accuracy": 0.866,
+      "precision": 0.8742,
+      "recall": 0.8667,
+      "f1": 0.866
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TF-IDF",
+      "reduccion": "ambas",
+      "accuracy": 0.8618,
+      "precision": 0.8619,
+      "recall": 0.8618,
+      "f1": 0.8618
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TO",
+      "reduccion": "ninguna",
+      "accuracy": 0.5557,
+      "precision": 0.6634,
+      "recall": 0.5993,
+      "f1": 0.5557
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TO",
+      "reduccion": "ninguna",
+      "accuracy": 0.8329,
+      "precision": 0.857,
+      "recall": 0.8354,
+      "f1": 0.8329
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TO",
+      "reduccion": "ninguna",
+      "accuracy": 0.8846,
+      "precision": 0.8866,
+      "recall": 0.8847,
+      "f1": 0.8846
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TO",
+      "reduccion": "ninguna",
+      "accuracy": 0.8639,
+      "precision": 0.8639,
+      "recall": 0.8639,
+      "f1": 0.8639
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TO",
+      "reduccion": "stemming",
+      "accuracy": 0.5817,
+      "precision": 0.6327,
+      "recall": 0.6042,
+      "f1": 0.5817
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TO",
+      "reduccion": "stemming",
+      "accuracy": 0.8323,
+      "precision": 0.8555,
+      "recall": 0.8347,
+      "f1": 0.8323
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TO",
+      "reduccion": "stemming",
+      "accuracy": 0.868,
+      "precision": 0.8691,
+      "recall": 0.8681,
+      "f1": 0.868
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TO",
+      "reduccion": "stemming",
+      "accuracy": 0.8597,
+      "precision": 0.86,
+      "recall": 0.8597,
+      "f1": 0.8597
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TO",
+      "reduccion": "stopwords",
+      "accuracy": 0.6529,
+      "precision": 0.7569,
+      "recall": 0.6792,
+      "f1": 0.6529
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TO",
+      "reduccion": "stopwords",
+      "accuracy": 0.8664,
+      "precision": 0.8777,
+      "recall": 0.8674,
+      "f1": 0.8664
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TO",
+      "reduccion": "stopwords",
+      "accuracy": 0.8783,
+      "precision": 0.8807,
+      "recall": 0.8785,
+      "f1": 0.8783
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TO",
+      "reduccion": "stopwords",
+      "accuracy": 0.8812,
+      "precision": 0.8815,
+      "recall": 0.8812,
+      "f1": 0.8812
+    },
+    {
+      "algoritmo": "K Vecinos más Cercanos",
+      "ponderacion": "TO",
+      "reduccion": "ambas",
+      "accuracy": 0.6895,
+      "precision": 0.7447,
+      "recall": 0.7028,
+      "f1": 0.6895
+    },
+    {
+      "algoritmo": "Máquina de Vectores de Soporte",
+      "ponderacion": "TO",
+      "reduccion": "ambas",
+      "accuracy": 0.8594,
+      "precision": 0.8709,
+      "recall": 0.8604,
+      "f1": 0.8594
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "ponderacion": "TO",
+      "reduccion": "ambas",
+      "accuracy": 0.8721,
+      "precision": 0.8739,
+      "recall": 0.8722,
+      "f1": 0.8721
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "ponderacion": "TO",
+      "reduccion": "ambas",
+      "accuracy": 0.8708,
+      "precision": 0.8709,
+      "recall": 0.8708,
+      "f1": 0.8708
+    }
+  ],
+  "figuras_propuestas": [
+    "figures/f1_max_por_algoritmo.png",
+    "figures/f1_medio_por_ponderacion_y_algoritmo.png",
+    "figures/f1_medio_por_reduccion_y_algoritmo.png"
+  ],
+  "mejores_configuraciones": [
+    {
+      "algoritmo": "Regresión Logística",
+      "config": {
+        "ponderacion": "TO",
+        "reduccion": "ninguna"
+      },
+      "f1": 0.8846
+    },
+    {
+      "algoritmo": "Árboles de Decisión",
+      "config": {
+        "ponderacion": "TO",
+        "reduccion": "stopwords"
+      },
+      "f1": 0.8812
+    },
+    {
+      "algoritmo": "Regresión Logística",
+      "config": {
+        "ponderacion": "TO",
+        "reduccion": "stopwords"
+      },
+      "f1": 0.8783
+    }
+  ],
+  "conclusiones_clave": [
+    "Regresión Logística + TO + ninguna alcanza el mejor F1-Score (0.8846)",
+    "TO (Term Occurrences) supera a TF-IDF en Regresion Logistica, Arboles de Decision y SVM; solo KNN mejora con TF-IDF",
+    "Los algoritmos lineales y de arbol (LR, DT, SVM) superan ampliamente a KNN en este problema",
+    "El impacto de eliminar stopwords o aplicar stemming es pequeno y depende del algoritmo",
+    "Validacion cruzada k=10 y particion 80/20 estratificada confirman la estabilidad de los resultados"
+  ]
+}

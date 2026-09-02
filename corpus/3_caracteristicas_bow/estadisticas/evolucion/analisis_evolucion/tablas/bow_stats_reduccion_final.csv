@@ -1,0 +1,3 @@
+tipo,red_vocab_final_%,red_tokens_final_%
+unigramas,77.91,47.83
+bigramas,97.7,92.46

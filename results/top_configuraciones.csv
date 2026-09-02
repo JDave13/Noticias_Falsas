@@ -1,0 +1,11 @@
+Algoritmo,Ponderación,Reducción,F1-Score
+Regresión Logística,TO,ninguna,0.8846
+Árboles de Decisión,TO,stopwords,0.8812
+Regresión Logística,TO,stopwords,0.8783
+Regresión Logística,TF-IDF,stopwords,0.8729
+Regresión Logística,TO,ambas,0.8721
+Árboles de Decisión,TO,ambas,0.8708
+Regresión Logística,TO,stemming,0.868
+Máquina de Vectores de Soporte,TO,stopwords,0.8664
+Regresión Logística,TF-IDF,ambas,0.866
+Árboles de Decisión,TF-IDF,stopwords,0.8646

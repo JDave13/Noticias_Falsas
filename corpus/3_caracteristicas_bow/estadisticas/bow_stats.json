@@ -1,0 +1,28 @@
+{
+  "n_docs": 7200,
+  "vocab_stopwords": 16102,
+  "vocab_stemmed": 10528,
+  "matrix_filtered_shape": [
+    7200,
+    16102
+  ],
+  "matrix_stem_shape": [
+    7200,
+    10528
+  ],
+  "density_filtered": 0.0021329562235195077,
+  "density_stemmed": 0.003174035904255319,
+  "min_freq": 3,
+  "vocab_raw": 37565,
+  "vocab_stem_only": 33949,
+  "matrix_raw_shape": [
+    7200,
+    37565
+  ],
+  "matrix_stem_only_shape": [
+    7200,
+    33949
+  ],
+  "density_raw": 0.0021115289054527706,
+  "density_stem_only": 0.002457145685849035
+}

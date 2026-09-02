@@ -1,0 +1,202 @@
+[
+  {
+    "id": "03613e86d0af",
+    "label": 0,
+    "title": "Cómo el emoji de la zanahoria se convirtió en un código secreto en internet para camuflar contenido antivacunas",
+    "description": "En estos grupos se comparten informaciones falsas sobre vacunas e historias no verificadas de personas que han sufrido daños o han muerto tras ser inmunizadas.",
+    "body": "Grupos de Facebook usan el emoji de la zanahoria para evadir la moderación automática de contenidos antivacunas.\nBBC ha observado varios grupos, entre ellos uno con cientos de miles de miembros, en los que aparece este emoji naranja en lugar de la palabra \"vacuna\" .\nLos algoritmos de Facebook tienden a enfocarse en palabras en lugar de imágenes.\nEn este tipo de grupos se comparten informaciones no verificadas de personas que supuestamente han sufrido daños o han muerto por las vacunas.\nUna vez que BBC alertó a Meta, la empresa matriz de Facebook, esos grupos fueron eliminados.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-62936770"
+  },
+  {
+    "id": "28c9d1ca5c54",
+    "label": 0,
+    "title": "Cómo un viaje a Noruega me hizo ver que estaba equivocado y que la Tierra no es plana",
+    "description": "Un hombre que defendió la teoría de que la Tierra es plana en 3.000 videos de YouTube, hoy trata de deshacer su error.",
+    "body": "En julio del año pasado, el YouTuber Leandro Batista, de 36 años, se embarcó en un viaje que, según él, confirmaría una creencia que promovía diligentemente en su canal y redes sociales, aunque estuviera contradiciendo el consenso científico: el terraplanismo.\nPero regresó de este viaje convencido de todo lo contrario y con el nuevo desafío de persuadir a sus seguidores de lo mismo.\nTodo empezó cuando Leandro le pidió ayuda a sus seguidores en redes sociales para costear el viaje y se dirigió rumbo a Noruega en una autoproclamada misión de explorar el mundo “basado en un modelo de Tierra plana”.\nNo creía en investigaciones, fotografías o videos de que el planeta era más bien redondo y quería recopilar sus propias pruebas para demostrar lo contrario.\nEn Noruega, el YouTuber siguió un fenómeno conocido como Sol de Medianoche (más información adelante).\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cv2j920557no"
+  },
+  {
+    "id": "7ea6094131e9",
+    "label": 0,
+    "title": "Quiénes son los \"Ciudadanos del Reich\", el grupo asociado con los golpistas arrestados en Alemania",
+    "description": "Las autoridades alemanas intensificadon la vigilancia de sus miembros desde que uno de ellos matara a un policía en 2016",
+    "body": "Las autoridades alemanas llevan años vigilando a los llamados Reichsbürger (Ciudadanos del Reich), grupos o individuos que niegan la existencia de la República Federal de Alemania como Estado y su ordenamiento jurídico por motivos muy diversos.\nEn muchos casos, niegan la legitimidad de cualquier representante elegido democráticamente. Las autoridades alemanas arrestaron este miércoles a 25 personas que \"siguen un conglomerado de mitos conspirativos compuesto por narraciones de la llamada Reichsbürger y la ideología QAnon\", según la Fiscalía alemana hizo saltar de nuevo las alarmas. Los detenidos conspiraban para derrocar al gobierno y formar uno nuevo.\n\"Las investigaciones nos permiten vislumbrar el abismo de una amenaza terrorista procedente del entorno de los Reichsbürger \", declaró hoy la ministra de Interior alemana, Nancy Faeser. La asociación está \"impulsada por fantasías de derrocamiento violento e ideologías conspirativas\", agregó la política socialdemócrata.\nLos Reichsbürger a menudo se ven a sí mismos al margen del sistema jurídico actual como el parlamento, las leyes o los tribunales. Declaran que el histórico Reich alemán sigue existiendo en la actualidad, de ahí su nombre (Bürger es ciudadano en alemán).\nEn concreto, esto significa que los Reichsbürger rechazan, por ejemplo, los documentos de identidad oficiales de Alemania y, en su lugar, se expiden documentos ficticios como el \"permiso de conducir del Reich\" o el \"carné de identidad del Reich\" o utilizan matrículas de coche del \"Reich alemán\" o incluso imprimen su propia moneda. También se niegan a pagar impuestos o aranceles y la cotización a la seguridad social.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-63889142"
+  },
+  {
+    "id": "7b51f26d74e3",
+    "label": 0,
+    "title": "\"Mi foto fue usada para diseminar mentiras sobre la guerra\": la verdadera historia de una de las imágenes más icónicas del conflicto en Ucrania",
+    "description": "La imagen de Marianna Vyshemirsky tras el ataque a una maternidad en Mariúpol dio la vuelta al mundo. Tras el bombardeo, la joven fue blanco de una campaña de desinformación y de mensajes de odio de ambos bandos.",
+    "body": "La foto de una mujer embarazada huyendo de una maternidad bombardeada se convirtió en una de las imágenes más icónicas de la guerra en Ucrania.\nPero su protagonista fue blanco de una extraordinaria campaña rusa de desinformación y expresiones de odio  ambos lados.\nEnvuelta en una colcha y con la frente ensangrentada, la imagen de Marianna Vyshemirsky dio la vuelta al mundo .\nLa foto al comienzo de esta nota fue tomada tras un ataque aéreo ruso en Mariúpol.\nLa imagen circuló en internet, en las portadas de los periódicos y fue debatida incluso en el Consejo de Seguridad de Naciones Unidas.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-61479399"
+  },
+  {
+    "id": "6e12029aee8e",
+    "label": 0,
+    "title": "La matanza que los soviéticos atribuyeron con éxito a los nazis durante 50 años",
+    "description": "En 1940 la Unión Soviética, bajo el mando de Stalin, ocupó el este de Polonia y asesinó a más de 4.000 oficiales polacos.",
+    "body": "Las tropas ucranianas que ingresaron a la ciudad de Bucha, 25km al noroeste de la capital, Kiev, encontraron evidencia de lo que parecen ser horribles crímenes de guerra cometidos por las tropas rusas durante el mes que duró de ocupación.\nTodo júbilo que sintieron tras obligar a las tropas rusas a abandonar la zona fue interrumpido por lo que parecían ser fosas comunes, cadáveres de civiles con las manos atadas a sus espaldas y evidencias de violación y asesinato de mujeres.\n\"Ahora el mundo puede ver lo que hizo el ejército ruso en Bucha\", dijo a las Naciones Unidas el presidente de Ucrania, Volodymyr Zelensky.\nPero el enviado de Rusia ante la ONU, Vassily Nebenzya, desestimó las afirmaciones y dijo que eran una \"provocación que fue escenificada\".\nLas atrocidades cometidas durante una guerra, por supuesto, no son nada nuevo, pero la negación rusa trae el recuerdo de un evento en particular: la masacre en el bosque de Katyn , en el este de Polonia, durante la Segunda Guerra Mundial, que la Unión Soviética (URSS) hizo pasar con éxito como una atrocidad nazi durante medio siglo.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-61047044"
+  },
+  {
+    "id": "171f81547558",
+    "label": 0,
+    "title": "Las afirmaciones falsas y engañosas amplificadas por Elon Musk en Twitter",
+    "description": "El dueño y director ejecutivo de Twitter frecuentemente ha hecho declaraciones sin fundamento o interactuado con cuentas conocidas por diseminar información falsa.",
+    "body": "El director ejecutivo de Twitter, Elon Musk, ha recibido criíticas por amplificar afirmaciones falsas y engañosas en su red social en meses recientes, mientras sus simpatizantes alegan que el magnate sólo está \"haciendo preguntas\" o \"desafiando la narrativa tradicional\".\nMusk, que tiene la cuenta con más seguidores en la plataforma, suele ser cauteloso con la redacción de sus tuits, sin embargo interactúa con importantes cuentas de la derecha estadounidense, incluyendo algunas conocidas por compartir información falsa .\nEl equipo de verificación de la BBC ha analizado algunas de las teorías falsas y declaraciones incendiarias en Twitter sobre las que Musk ha comentado en meses recientes.\nMusk ha puesto en duda repetidamente la evidencia que demuestra que el sospechoso de una reciente balacera en un centro comercial en Texas tenía inclinaciones neonazis.\nLas cuentas del atacante en YouTube y la red social rusa Odnoklassniki fueron inicialmente descubiertas por el grupo investigativo de sistema abierto Bellingcat, donde aparecían fotos de tatuajes con esvásticas, un largo testamento violento y un meme que mencionaba \"niños latinos\" y la frase \"conviértete en un supremacista blanco\".\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-65722939"
+  },
+  {
+    "id": "5cf999e188d3",
+    "label": 0,
+    "title": "Rusia invade Ucrania: cómo saber si lo que estás viendo sobre el conflicto es real o son \"fake news\"",
+    "description": "La reportera especializada en desinformación de la BBC, Marianna Spring, tiene algunos consejos sobre cómo detectar lo que es verdadero y lo que es falso de entre las imágenes sobre Ucrania que circulan por internet.",
+    "body": "A medida que avanza el conflicto en Ucrania, videos e imágenes falsos o engañosos sobre la invasión de Rusia continúan haciéndose virales.\nSe están produciendo combates en gran parte del país con las fuerzas rusas, que intentan tomar el control de las principales ciudades ucranianas, y la fluidez y rapidez con la que ocurren los hechos lleva a que se compartan gran cantidad de \"fake news\" o noticias falsas.\nPor ejemplo, videos o fotos antiguas que se muestran como actuales y también lo contrario: afirmaciones falsas que aseguran que imágenes como la que encabeza este artículo son antiguas o que la mujer retratada es una actriz (y no, no lo es).\nAunque a primera vista puedan tener un parecido superficial, las imágenes de una explosión de gas en Magnitogorsk en 2018 no se corresponden con las imágenes de la destrucción de un edificio residencial en Járkiv el pasado jueves.\nGran parte de estas afirmaciones falsas fueron hechas por una variedad de cuentas pro Rusia.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-60588041"
+  },
+  {
+    "id": "7e392440a649",
+    "label": 0,
+    "title": "Donald Trump: cómo detectar imágenes creadas por inteligencia artificial como las fotos falsas del arresto del expresidente",
+    "description": "Imágenes del expresidente estadounidense siendo \"arrestado\" están en todas las redes sociales, pero no te dejes engañar.",
+    "body": "Todas las imágenes publicadas en este artículo son falsas.\nImágenes falsas creadas por herramientas de inteligencia artificial (IA) que retratan a Donald Trump han aparecido en redes sociales durante la última semana.\nMuchos mostraron falsamente el arresto del expresidente, quien ha dicho que puede enfrentar en los próximos días una acusación por parte de la justicia por el supuesto pago de dinero a una mujer con la que tuvo una relación.\nAl momento, el exmandatario no ha sido acusado de ningún delito.\nMuchos de los que compartieron las imágenes señalaron que eran falsas y que no parecían engañar a mucha gente, pero algunos sí parecían estar engañados.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-65071726"
+  },
+  {
+    "id": "f1727c544bb1",
+    "label": 0,
+    "title": "La princesa Kate pide disculpas por la \"confusión\" que causó su foto retirada por las agencias de noticias por inconsistencias",
+    "description": "Cinco agencias habían retirado la foto oficial de la princesa Catherine por “inconsistencias” hayadas en la imagen.",
+    "body": "Catherine, la princesa de Gales, pidió disculpas por “cualquier confusión” que haya causado su foto del Día de la Madre, después de que cinco agencias retiraran la imagen por dudas de que había sido “manipulada”.\nEn un comunicado publicado en las redes sociales del Palacio de Kensington, la princesa Kate declaró: “Como muchos fotógrafos aficionados, ocasionalmente suelo experimentar con edición”.\nLa foto, tomada por Guillermo, el príncipe de Gales, para el Día de la Madre (que se celebró este domingo en Reino Unido) es la primera que se había distribuido oficialmente de la princesa desde su cirugía abdominal en enero. Desde entonces ha estado alejada de la mirada pública.\nPero luego, las principales agencias noticiosas -PA, Getty Images, AFP, Reuters y Associated Press- retiraron la imagen por una “inconsistencia en la alineación de la mano izquierda de la princesa Charlotte” que, según sus políticas, la invalidaba para circulación.\nEn su comunicado en X, antiguo twitter, Catherine declaró: “Quiero expresar mis disculpas por cualquier confusión que la fotografía familiar compartida ayer haya causado. Espero que todos los que celebraron hayan tenido un muy feliz Día de la Madre. C.”\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c88xjp0zlwqo"
+  },
+  {
+    "id": "17c5dc2ee273",
+    "label": 0,
+    "title": "\"Alguien simuló mi muerte en TikTok\"",
+    "description": "Grace Wolstenholme, quien cuenta con 1,3 millones de seguidores en la red, se dio cuenta del video con el engaño sobre su muerte cuando un conocido contactó a su madre para expresarle sus condolencias.",
+    "body": "Una creadora en TikTok hizo una advertencia a los usuarios de las redes sociales para que estén más alertas a la desinformación, después de que un video que afirmaba que ella estaba muerta fue visto 650.000 veces.\nGrace Wolstenholme, de 22 años, ha acumulado 1,3 millones de seguidores desde 2021 por sus videos en los que aborda cómo es vivir con parálisis cerebral.\nUno de sus videos más populares fue usado sin su permiso por una cuenta que parece vender almohadas y subtitulado: \"Hoy perdí a mi hermana autista, así que compré esta almohada para hacer como si la estuviera abrazando\".\nTikTok confirmó que había retirado el video por violar las reglas de su comunidad. A pesar de varios intentos, la BBC no ha podido contactar la persona que compartió el video.\n\"Hay muchas personas malas en las redes sociales, así que debes verificar los hechos\", comentó Wolstenholme, que divide su tiempo entre el condado Essex y Londres.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/ce83pejl32xo"
+  },
+  {
+    "id": "ba3684139a85",
+    "label": 0,
+    "title": "Los diabólicos orígenes de las teorías de conspiración (y el rey francés que creó una de las más exitosas de todos los tiempos)",
+    "description": "La historia de las teorías de conspiración es muy larga, y uno de sus momentos de apogeo fue la Edad Media, en la que un monarca se distinguió por ser el más febril y mayor teórico.",
+    "body": "Desde 'Pizzagate' hasta QAnon, las teorías de la conspiración pueden parecer como un producto del mundo moderno, difundidas a través de la naturaleza omnipresente de las redes sociales.\nEl 4 de diciembre de 2016, Edgar Welch irrumpió en una pizzería en las afueras de Washington y abrió fuego. El atacante pensó que así detendría una supuesta red de prostitución infantil vinculada a Hilary Clinton, una de las muchas noticias inventadas que circularon en esos meses para afectar la campaña presidencial de la candidata demócrata.\nEso muestra que un clic equivocado puede llevarte al laberinto digital sin sentido de las teorías de conspiración, pero, por supuesto, este no es un fenómeno exclusivo de nuestra época .\n\"Las conspiraciones han existido desde que ha habido seres humanos. Es una forma de explicar lo inexplicable\", dice Kamy Akhavan, director ejecutivo del Centro Dornsife para el Futuro Político, de la Universidad de California del SUR (USC por sus siglas en inglés).\n¿Mirar al pasado podría ayudarnos a entender el presente?\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-61988170"
+  },
+  {
+    "id": "56ba52a7afea",
+    "label": 0,
+    "title": "Cómo una historia en México me llevó a destapar el mayor escándalo del periodismo alemán",
+    "description": "Un reportaje en la frontera de México con Estados Unidos acabó destapando uno de los mayores escándalos de fraude del periodismo alemán y dejó en evidencia a la prestigiosa revista alemana \"Der Spiegel\".",
+    "body": "Claas Relotius estaba llamado a ser uno de los jefes de la prestigiosa revista alemana Der Spiegel . Joven, talentoso, con numerosos premios a sus espaldas. Nadie podía imaginarse que el considerado como el \"niño bonito\" del periodismo alemán se convertiría en el gran impostor y su nombre en sinónimo de f ake n ews .\nEl encargado de desenmascararlo fue Juan Moreno, periodista freelance e hijo de inmigrantes españoles que abandonaron el campo almeriense cuando él tenía 1 año y medio para probar suerte en una fábrica de neumáticos de Alemania.\n\"Relotius era la persona más querida de todo el Spiegel . Amable, simpático, callado, humilde y ese cóctel era peligroso. Me estaba metiendo con alguien que no solo era genial y había ganado tantísimos premios, sino que la gente lo quería mucho\", comenta a BBC Mundo Juan Moreno con motivo del estreno este jueves de la película basada en su libro \"Mil líneas de mentira\" .\nMoreno tuvo que luchar contra esa imagen y contra sus jefes. Él era una persona de fuera, un outsider que estaba poniendo en duda la integridad de un periodista de cuyo talento decían que era de esos \"que solo surgen una vez cada 100 años\", un periodista de 33 años que en unas semanas iba a ocupar el cargo de jefe de sección en la revista.\nPero ¿cómo fue todo el proceso para sacar a la luz un escándalo que sacudió los cimientos de toda una institución periodística?\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-62914501"
+  },
+  {
+    "id": "4554eac03b8f",
+    "label": 0,
+    "title": "Premio Pulitzer: los antecedentes amarillistas del creador de uno de los galardones más prestigiosos del periodismo (que se entrega este 9 de mayo)",
+    "description": "El premio al que aspiran los más consumados periodistas fue fundado en honor y con el dinero de un magnate de los medios que no estuvo exento de polémica por el tipo noticias que publicó.",
+    "body": "Dicen que si te ganas un Premio Pulitzer sabrás a partir de ese momento cuáles serán las primeras palabras de tu obituario: \"El ganador del Pulitzer (tu nombre aquí)… etc.\", un honor al que siempre estarás vinculado.\nEl Pulitzer, que anunciará sus ganadores y candidatos nominados de 2022 el próximo 9 de mayo, destaca el más alto rigor, compromiso y profesionalismo en varias categorías de la prensa escrita y digital (aunque también hay premios en literatura, dramaturgia y música, entre otros).\nEl premio fue creado para ese propósito con una donación de Joseph Pulitzer, un inmigrante a Estados Unidos que surgió de la nada para convertirse en un poderoso magnate de los medios a finales del siglo XIX y comienzos del XX.\nPulitzer revolucionó la prensa estadounidense , promovió el profesionalismo del oficio de periodista, innovó elementos en los periódicos que hoy damos por sentados, tuvo el diario de mayor circulación en el mundo y hasta cierto punto fue \"el inventor de los medios masivos de comunicación\", según uno de sus biógrafos.\nSin embargo, no estuvo lejos de la polémica. El estilo escabroso y sensacionalista de los reportajes en sus publicaciones dieron origen al término \"prensa amarilla\", que se asocia con la prácticas periodísticas más cuestionables y, durante un breve pero crucial período, recurrió a lo que hoy en día llamaríamos \"noticias falsas\".\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-61323628"
+  },
+  {
+    "id": "41782c3c22a1",
+    "label": 0,
+    "title": "Rusia y Ucrania: la sobreviviente de un bombardeo a una escuela ucraniana a la que Moscú \"convirtió\" en una noticia falsa",
+    "description": "Una mujer ucraniana que sobrevivió a un ataque ruso contra una escuela en Chernihiv aparece en cuentas de Instagram adeptas al Kremlin que cuestionan la veracidad de su historia.",
+    "body": "Después de una ataque aéreo contra una escuela en Chernihiv, Ucrania, el video de una ensangrentada sobreviviente se volvió viral en las redes sociales ucranianas.\nPero muy pronto su historia fue replicada por cuentas de redes adeptas al Kremlin, incluyendo una promovida por el Ministerio de Relaciones Exteriores de Rusia, que la acusó sin fundamentos de que era una noticia falsa.\n\"No hubo un silbido, ni crujido ni ruido de artillería\", cuenta Tania. \"Simplemente impactó el edificio y de repente todo se oscureció. El edificio se derrumbó\".\nTania se vio en medio de un ataque aéreo a comienzos de marzo . Estaba ayudando a seleccionar ropa para una campaña humanitaria en la escuela número 21 en Chernihiv, al norte de Kiev, cuando un misil impactó el edificio.\nAunque las autoridades no mencionaron en nombre de la escuela, la BBC pudo confirmar de qué edificio se trataba a través de imágenes publicadas en la aplicación Telegram.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-61216140"
+  },
+  {
+    "id": "7a0de975d470",
+    "label": 0,
+    "title": "La madre de Katy Perry, engañada con una foto falsa de su hija en la Met Gala creada por inteligencia artificial",
+    "description": "Millones de personas también vieron en redes sociales imágenes falsas de Rihanna y Dua Lipa en la Met Gala.",
+    "body": "Imágenes generadas por inteligencia artificial (IA) de Katy Perry y Rihanna en la Met Gala se volvieron virales en las redes sociales.\nNinguna de las cantantes estuvo presente en el evento de moda del lunes a la noche en Nueva York , pero eso no impidió que circularan imágenes falsas de ellas en X , antes llamada Twitter .\nPerry compartió dos imágenes falsas de ella en Instagram y reveló que incluso su madre había sido engañada .\nUna imagen de la cantante con un vestido floral con ribetes de musgo en la alfombra roja del evento en el Museo Metropolitano de Arte (Met) fue vista más de 15 millones de veces en X.\nFanáticos respondieron a la publicación de Perry en Instagram admitiendo que la imagen los había engañado.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c4n188l4zn0o"
+  },
+  {
+    "id": "e7d72a4b3f84",
+    "label": 0,
+    "title": "Cómo Finlandia ha conseguido combatir con éxito las noticias falsas",
+    "description": "El país escandinavo es el que mejor logra contener la desinformación, según un estudio del Open Society Institute. Aquí te explicamos las claves de su éxito y qué lecciones deja para otros países.",
+    "body": "En septiembre pasado, pocas horas después de que el presidente ruso Vladimir Putin llamara a 300.000 reservistas militares para luchar en Ucrania, un video que mostraba largas colas de autos en la frontera entre Finlandia y Rusia comenzó a circular en las redes sociales.\nLa Guardia Fronteriza de Finlandia se apresuró a señalar que era falso.\n\"Algunos de los videos fueron filmados antes y ahora se sacaron de contexto\", informó a través de Twitter.\nEl tuit fue rápidamente reproducido en la parte superior de la página en vivo sobre la guerra en Ucrania que publica el sitio web de noticias de la emisora nacional Yle.\nLa respuesta de la Guardia Fronteriza y de Yle destaca un elemento crucial del éxito de Finlandia contra la desinformación: la confianza pública en las autoridades y los medios.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-63334939"
+  },
+  {
+    "id": "578a6773fdf8",
+    "label": 0,
+    "title": "“Me arrepiento de haber publicado en línea que yo era Madeleine McCann”",
+    "description": "Julia Wandelt, quien tuvo una infancia traumática, se convenció de que era la niña británica desaparecida en 2007 y publicó un perfil en Instagram declarando ser ella, lo que la convirtió en el centro de ataques en redes.",
+    "body": "Mientras Julia Wandelt toca la guitarra en su habitación en Polonia, nos rodean ositos de peluche. Uno es de color rosa brillante y lleva una camiseta que dice: \"You got this!\" (¡Lo tienes!).\nFue un regalo, dice la joven de 22 años, de algunos de sus nuevos seguidores. Los conoció después de crear una cuenta de Instagram llamada @iammadeleinemccan , en referencia a la niña británica que desapareció en Portugal en 2007 pero a la que le faltaba la \"n\" final de su apellido.\nLa desaparición de Madeleine McCann a la edad de tres años, que sigue sin resolverse, es una de las más reportadas de la historia.\nLas comunidades en línea de personas obsesionadas con el caso han crecido, y la cuenta de Julia fue como arrojar gasolina al fuego que ya ardía en sitios de redes sociales como Instagram, TikTok y X.\n\" Nunca quise lastimar a nadie , incluidos [los] McCann\", me dijo. \"Realmente quería saber quién soy \".\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c0kd5g404xvo"
+  },
+  {
+    "id": "b2d0a3c3d011",
+    "label": 0,
+    "title": "Los sobrevivientes de ataques terroristas que son acusados de fingir por teóricos de la conspiración",
+    "description": "La corresponsal de desinformación de la BBC revela cómo trolls que creen en teorías conspirativas se ensañan con las víctimas de ataques terroristas, acusándolas de ser actores.",
+    "body": "Conspiracionistas que afirman que ataques terroristas cometidos en Reino Unido fueron escenificados están rastreando a los sobrevivientes en sus hogares y lugares de trabajo para ver si mienten sobre sus lesiones, según descubrió una investigación de la BBC.\nMartin Hibbert, quien quedó paralizado de la cintura para abajo cuando él y su hija Eve quedaron atrapados en la explosión del Manchester Arena, en 2017, le dijo a la BBC que está preparando una denuncia por difamación contra un teórico de la conspiración que vive en Gales.\nRichard D. Hall ha descrito cómo rastrea físicamente a los sobrevivientes del ataque, en el que murieron 22 personas y más de 100 resultaron heridas, para determinar si fue falso.\nDijo que espió a Eve desde un vehículo estacionado frente a su casa. En un video compartido con sus seguidores en línea, Hall mostró cómo configuró una cámara para filmar a Eve, quien quedó profundamente discapacitada y en silla de ruedas, para ver si de hecho puede caminar.\n\"Estoy a favor de la libertad de expresión\", me dijo Martin Hibbert. \"Pero se pasa de la raya cuando dices que soy actor o que no tengo una lesión en la médula espinal o que Eve no está discapacitada, que no está en silla de ruedas\".\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-63737295"
+  },
+  {
+    "id": "fc1d400f0c25",
+    "label": 0,
+    "title": "Rusia y Ucrania | Investigación BBC: los misteriosos grupos de Facebook que apoyan a Putin",
+    "description": "Las publicaciones que elogian al líder ruso están siendo vistas por millones de personas en la red social. La BBC investigó cuál es la actividad de estas páginas y quiénes las administran.",
+    "body": "La invasión rusa de Ucrania ha sido ampliamente condenada en muchas partes del mundo, pero una red de grupos de Facebook está buscando cambiar la percepción que se tiene del líder del país.\nMillones de personas han visto en la red social publicaciones que tienen el objetivo de retratar al presidente Vladimir Putin como alguien sonriente, benévolo y amante de la paz.\nSon los superfanáticos de Putin .\nEstuvimos investigando qué hacen y de dónde vienen.\nLa BBC analizó estos enormes grupos pro-Putin con la ayuda de investigadores del Instituto para el Diálogo Estratégico (ISD), una organización independiente con sede en Londres que combate la desinformación.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-61067978"
+  },
+  {
+    "id": "68f3d47bb9d8",
+    "label": 0,
+    "title": "Lula vs Bolsonaro | \"Los pastores evangélicos están sembrando el miedo desde el altar\"",
+    "description": "Las iglesias evangélicas en Brasil han sido acusadas de difundir desinformación destinada a desprestigiar al candidato presidencial de izquierda Luiz Inácio Lula da Silva, quien este domingo se enfrenta en un balotaje al actual mandatario de derecha, Jair Bolsonaro. El equipo de Lula también tiene una estrategia al respecto.",
+    "body": "Ana estaba en su iglesia evangélica local en el noreste de Brasil cuando el pastor comenzó a predicar.\nEl mensaje se enfocó en un versículo familiar: \"Mas buscad primeramente su reino y su justicia, y todas estas cosas os serán añadidas\" (Mateo 6:33).\nPero la interpretación del pastor fue inusual.\n\"Dijo que debemos proteger el reino de Dios votando por un candidato presidencial que no cierre todas las iglesias del país\", cuenta Ana (le hemos cambiado el nombre porque tiene miedo de que la reprendan en la iglesia).\nEste domingo 30 de octubre, los brasileños eligen a su próximo líder. La elección será entre el actual presidente, Jair Bolsonaro, y el expresidente Luiz Inácio Lula da Silva.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-america-latina-63430782"
+  },
+  {
+    "id": "38248128f3db",
+    "label": 0,
+    "title": "El Yimeilun, la estrategia con la que China busca influir en las elecciones de Taiwán al sembrar dudas sobre su alianza con EE.UU.",
+    "description": "Pekín impulsa el \"escepticismo estadounidense\", según analistas, para abrir una brecha entre Taiwán y su mayor aliado antes de los comicios del sábado.",
+    "body": "El rumor no es nada nuevo, pero es efectivo: los taiwaneses estaban siendo alimentados con carne de cerdo “envenenada” importada de Estados Unidos.\nA esta afirmación, que llevaba semanas circulando, le siguió otra: el gobierno de Taiwán estaba extrayendo secretamente sangre de sus ciudadanos y entregándosela a Estados Unidos para fabricar un arma biológica con la que atacar a China.\nAmbas fueron rápidamente desmentidas.\nPero se trata de un tipo de narrativa que se ha ido propagando por Taiwán antes de las elecciones presidenciales y legislativas del sábado.\nForma parte del “ Yimeilun ” o escepticismo estadounidense que cuestiona la fidelidad del mayor aliado de Taiwán, presentando a la isla como un peón explotado por Estados Unidos.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c2ey8yn81eeo"
+  },
+  {
+    "id": "c739027add0f",
+    "label": 0,
+    "title": "Las imágenes falsas creadas con IA para intentar atraer el apoyo de los votantes negros hacia Trump",
+    "description": "Una tendencia creciente de desinformación en las elecciones estadounidenses es el uso de imágenes falsas de votantes negros junto a Donald Trump.",
+    "body": "Los partidarios del expresidente estadounidense Donald Trump han estado creando y compartiendo imágenes falsas de votantes negros generadas por inteligencia artificial (IA) para alentar a los afroamericanos a votar por los republicanos.\nBBC Panorama descubrió decenas de deepfakes que mostraban a personas negras apoyando al mandatario, quien aspira a regresar a la Casa Blanca en los comicios de finales de este año.\nTrump ha cortejado abiertamente a los votantes negros, que fueron clave para la victoria electoral de Joe Biden en 2020.\nPero no hay evidencia que vincule directamente estas imágenes con la campaña de Trump.\nEl cofundador de Black Voters Matter, un grupo que anima a los negros a votar, dijo que las imágenes manipuladas estaban impulsando una \"narrativa estratégica\" diseñada para mostrar a Trump como popular en la comunidad negra.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c3g4l5xgvryo"
+  },
+  {
+    "id": "44b57d9920a3",
+    "label": 0,
+    "title": "\"Nuestra hermana murió por las teorías conspirativas de nuestra madre sobre el cáncer\"",
+    "description": "Los hermanos de Paloma Shemirani afirman que la joven murió porque rehusó un tratamiento de quimioterapia por influencia de su madre, una conocida activista antifármacos.",
+    "body": "Gabriel y Sebastian Shemirani observaban con preocupación cómo su madre Kate ganaba mala fama durante la pandemia, y cómo finalmente fue destituida de su cargo de enfermera por promover desinformación sobre la covid.\nLuego, su hermana Paloma fue diagnosticada de cáncer. Los médicos le indicaron que tenía un buen pronóstico de supervivencia con quimioterapia. Pero en 2024, siete meses después, murió tras rechazar tratamiento.\nLos hermanos responsabilizan a las teorías conspirativas de su madre de la muerte de Paloma, quien tenía 23 años. Algunos oncólogos le dijeron al programa Panorama de la BBC que esas creencias se están volviendo más comunes.\nKate Shemirani no ha respondido directamente a las preguntas que le hicimos sobre el caso de su hija, pero públicamente ha acusado al NHS (el sistema de salud pública de Reino Unido) de la muerte de Paloma.\nElla y su exesposo, el padre de la joven fallecida, Faramarz Shemirani, nos dijeron por escrito que tienen evidencia que \"Paloma murió como resultado de las intervenciones médicas administradas sin un diagnóstico confirmado ni consentimiento legal\". La BBC no ha visto pruebas que respalden esas afirmaciones.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cjrl80j4x7no"
+  },
+  {
+    "id": "28608f362774",
+    "label": 0,
+    "title": "Guerra en Ucrania: los \"rostros robados\" que se usan para promocionar y defender a Vladimir Putin",
+    "description": "Hay cuentas en las redes sociales que utilizan imágenes de personas famosas y desconocidas para tuitear a favor de Rusia.",
+    "body": "La influencer india ER Yamini jamás en su vida ha tuiteado; prefiere cultivar sus grandes bases de seguidores en Instagram y YouTube.\nPero a principios de marzo, una cuenta de Twitter que usaba su foto tuiteó: \" #IStandWithPutin. True Friendship \" acompañada de un video que mostraba a dos hombres abrazándose, uno representando a India y el otro a Rusia.\nYamini dice que no apoya a ninguno de los dos países en la guerra entre Rusia y Ucrania y se preocupa por sus seguidores.\n\" Si ven ese tuit, ¿qué pensarán de mí? \", se pregunta: \"Ojalá no usaran mi foto en ese perfil\".\nLa cuenta falsa es parte de una red que promociona al presidente ruso Vladimir Putin en Twitter, que utilizó las etiquetas #IStandWithPutin y #IStandWithRussia el 2 y 3 de marzo.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-internacional-61438128"
+  },
+  {
+    "id": "bbfcea6f3de5",
+    "label": 0,
+    "title": "Vacunas contra el coronavirus: \"Cómo una foto de mi pie se convirtió en propaganda antivacunas\"",
+    "description": "Patricia sufre de una afección cutánea aún no diagnosticada, pero un malentendido sobre qué podría haberla provocado desencadenó una cadena de eventos que convirtió a su pie en munición para los activistas antivacunas.",
+    "body": "Advertencia: este artículo contiene imágenes que pueden afectar a algunos lectores .\nLa imagen mostraba llagas moradas y rojas, hinchadas y supurantes de pus.\n\"Supuestamente es de una participante en los ensayos [de una de las vacunas contra el coronavirus]\", se leía en el mensaje adjunto. \"¿Listo para dejarte inyectar?\"\nA lo largo del día, esos mismos pies fueron mencionados miles de veces en Instagram y Facebook. La imagen también se volvió viral en Twitter.\n\"Mira, están tratando de lastimarnos deliberadamente con la vacuna\", decía un tuit.\nFinal de",
+    "url": "https://www.bbc.com/mundo/noticias-55246017"
+  }
+]

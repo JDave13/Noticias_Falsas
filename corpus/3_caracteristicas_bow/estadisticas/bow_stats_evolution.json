@@ -1,0 +1,50 @@
+{
+  "unigramas": {
+    "raw": {
+      "vocab": 28727,
+      "tokens": 472134
+    },
+    "stopwords": {
+      "vocab": 28554,
+      "tokens": 267570,
+      "reduction_vocab_%": 0.6,
+      "reduction_tokens_%": 43.33
+    },
+    "freq": {
+      "vocab": 11741,
+      "tokens": 246319,
+      "reduction_vocab_%": 59.13,
+      "reduction_tokens_%": 47.83
+    },
+    "stem": {
+      "vocab": 6347,
+      "tokens": 246319,
+      "reduction_vocab_%": 77.91,
+      "reduction_tokens_%": 47.83
+    }
+  },
+  "bigramas": {
+    "raw": {
+      "vocab": 181504,
+      "tokens": 464934
+    },
+    "stopwords": {
+      "vocab": 76802,
+      "tokens": 114630,
+      "reduction_vocab_%": 57.69,
+      "reduction_tokens_%": 75.34
+    },
+    "freq": {
+      "vocab": 4361,
+      "tokens": 35041,
+      "reduction_vocab_%": 97.6,
+      "reduction_tokens_%": 92.46
+    },
+    "stem": {
+      "vocab": 4181,
+      "tokens": 35041,
+      "reduction_vocab_%": 97.7,
+      "reduction_tokens_%": 92.46
+    }
+  }
+}

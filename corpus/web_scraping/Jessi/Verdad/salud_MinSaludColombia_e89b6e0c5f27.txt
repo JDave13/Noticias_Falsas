@@ -1,0 +1,8 @@
+{
+  "id": "e89b6e0c5f27",
+  "label": 1,
+  "title": "Calidad de Atención en Salud",
+  "description": "Ministerio de Salud y Protección Social",
+  "body": "Ministerio de Salud y Protección Social Acceso compatible con Internet Explorer Repositorio Institucional Digital Abecés, boletines y guías Biblioteca de salud pública Información contractual Avisos convocatoria pública y privada Certificado de contratos en línea Colombia Compra Eficiente Trámites y servicios Estadísticas de satisfacción trámites y servicios Evaluación de los servicios de las EPS Directorio secretarías de salud y alcaldías Centro Nacional de Enlace Participación y control social Reunión con secretarios de salud Emergencias y desastres Comunicación en las regiones Niñas y niños saludables Observatorios Centro Nacional de Enlace Fiebre chikunguña Generación Más Guías de Práctica Clínica Información ébola Colombia Mapa interactivo de inversión en IPS públicas PILA Plan Decenal de Salud Pública Proyectos tipo Sistema de información geográfica Nacionales e internacionales Participación ciudadana Rendición de cuentas SISPRO",
+  "url": "https://www.minsalud.gov.co/salud/CAS/Paginas/calidad-atencion-en-salud-home.aspx"
+}

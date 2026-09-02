@@ -1,0 +1,9 @@
+Ponderación,Algoritmo,mean,std,min,max
+TF-IDF,K Vecinos más Cercanos,0.7454,0.0397,0.709,0.7851
+TF-IDF,Máquina de Vectores de Soporte,0.8432,0.01,0.8334,0.8525
+TF-IDF,Regresión Logística,0.8649,0.0066,0.8569,0.8729
+TF-IDF,Árboles de Decisión,0.8597,0.005,0.8528,0.8646
+TO,K Vecinos más Cercanos,0.62,0.062,0.5557,0.6895
+TO,Máquina de Vectores de Soporte,0.8478,0.0177,0.8323,0.8664
+TO,Regresión Logística,0.8758,0.0073,0.868,0.8846
+TO,Árboles de Decisión,0.8689,0.0094,0.8597,0.8812

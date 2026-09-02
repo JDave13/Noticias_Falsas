@@ -1,0 +1,33 @@
+Algoritmo,Ponderación,Reducción,Accuracy,Precision,Recall,F1-Score
+K Vecinos más Cercanos,TF-IDF,ninguna,0.709,0.7091,0.709,0.709
+Máquina de Vectores de Soporte,TF-IDF,ninguna,0.8356,0.8473,0.8368,0.8356
+Regresión Logística,TF-IDF,ninguna,0.8637,0.8738,0.8646,0.8637
+Árboles de Decisión,TF-IDF,ninguna,0.8597,0.8603,0.8597,0.8597
+K Vecinos más Cercanos,TF-IDF,stemming,0.7136,0.7148,0.7139,0.7136
+Máquina de Vectores de Soporte,TF-IDF,stemming,0.8334,0.8453,0.8347,0.8334
+Regresión Logística,TF-IDF,stemming,0.8569,0.8651,0.8576,0.8569
+Árboles de Decisión,TF-IDF,stemming,0.8528,0.8528,0.8528,0.8528
+K Vecinos más Cercanos,TF-IDF,stopwords,0.7851,0.787,0.7854,0.7851
+Máquina de Vectores de Soporte,TF-IDF,stopwords,0.8511,0.862,0.8521,0.8511
+Regresión Logística,TF-IDF,stopwords,0.8729,0.8819,0.8736,0.8729
+Árboles de Decisión,TF-IDF,stopwords,0.8646,0.8648,0.8646,0.8646
+K Vecinos más Cercanos,TF-IDF,ambas,0.774,0.7758,0.7743,0.774
+Máquina de Vectores de Soporte,TF-IDF,ambas,0.8525,0.8634,0.8535,0.8525
+Regresión Logística,TF-IDF,ambas,0.866,0.8742,0.8667,0.866
+Árboles de Decisión,TF-IDF,ambas,0.8618,0.8619,0.8618,0.8618
+K Vecinos más Cercanos,TO,ninguna,0.5557,0.6634,0.5993,0.5557
+Máquina de Vectores de Soporte,TO,ninguna,0.8329,0.857,0.8354,0.8329
+Regresión Logística,TO,ninguna,0.8846,0.8866,0.8847,0.8846
+Árboles de Decisión,TO,ninguna,0.8639,0.8639,0.8639,0.8639
+K Vecinos más Cercanos,TO,stemming,0.5817,0.6327,0.6042,0.5817
+Máquina de Vectores de Soporte,TO,stemming,0.8323,0.8555,0.8347,0.8323
+Regresión Logística,TO,stemming,0.868,0.8691,0.8681,0.868
+Árboles de Decisión,TO,stemming,0.8597,0.86,0.8597,0.8597
+K Vecinos más Cercanos,TO,stopwords,0.6529,0.7569,0.6792,0.6529
+Máquina de Vectores de Soporte,TO,stopwords,0.8664,0.8777,0.8674,0.8664
+Regresión Logística,TO,stopwords,0.8783,0.8807,0.8785,0.8783
+Árboles de Decisión,TO,stopwords,0.8812,0.8815,0.8812,0.8812
+K Vecinos más Cercanos,TO,ambas,0.6895,0.7447,0.7028,0.6895
+Máquina de Vectores de Soporte,TO,ambas,0.8594,0.8709,0.8604,0.8594
+Regresión Logística,TO,ambas,0.8721,0.8739,0.8722,0.8721
+Árboles de Decisión,TO,ambas,0.8708,0.8709,0.8708,0.8708

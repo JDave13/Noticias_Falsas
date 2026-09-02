@@ -1,0 +1,114 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Word Report",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "scripts/make_docx.ps1"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Convierte el informe Markdown a formato Word (.docx) usando pandoc",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Generate Figures",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "generate_figures.py"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "detail": "Genera las 3 figuras del análisis (requiere matplotlib, seaborn)",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Run Full Pipeline",
+            "type": "shell",
+            "command": "echo",
+            "args": [
+                "Ejecutando pipeline completo..."
+            ],
+            "group": "build",
+            "dependsOn": [
+                "Generate Figures",
+                "Build Word Report"
+            ],
+            "dependsOrder": "sequence",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "detail": "Ejecuta generación de figuras y construcción del reporte Word en secuencia"
+        },
+        {
+            "label": "Open Output Directory",
+            "type": "shell",
+            "command": "explorer",
+            "args": ["out"],
+            "group": "test",
+            "presentation": {
+                "echo": false,
+                "reveal": "never",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "detail": "Abre el directorio de salida con los archivos generados",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Clean Output",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-Command",
+                "if (Test-Path 'out') { Remove-Item 'out' -Recurse -Force; Write-Host 'Directorio out limpiado' } else { Write-Host 'Directorio out no existe' }"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "detail": "Limpia el directorio de salida eliminando archivos generados",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        }
+    ]
+}

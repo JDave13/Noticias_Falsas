@@ -1,0 +1,8 @@
+{
+  "id": "739b66d2dd69",
+  "label": 0,
+  "title": "Cursos y Talleres",
+  "description": "Fact Checking: El análisis del discurso público.",
+  "body": "En Verificado, hemos asumido un rol preponderante en la educación mediática de los distintos segmentos de la población, especialmente de nuestros colegas perdiodistas, a través de cursos, talleres, conferencias y contenidos en línea, no sólo sobre la verificación de la información, sino también para la detección de noticias falsas, el ejercicio ético de la profesión periodística, la generación de contenidos con perspectiva de género y el abordaje de temas de derechos humanos. La impartición de estos talleres es además una de nuestras vías de financiamiento, pues no contamos con publicidad oficial o privada. ​ ​ ​ Fact Checking : El análisis del discurso público. El Método Combatiendo la Desinformación Sobre nuestra lengua: Las palabras y el género. Marco Normativo Nacional e internacional en materia de lenguaje incluyente. Hacia un uso del lenguaje incluyente. También se ofrecen talleres para público en general y equipos de trabajo diversos, dinos cuáles son tus necesidades y hacemos algo especial para ti. Contactar ¡Qué no te vean la cara de...! Pregunta aquí Somos un medio de comunicación especializado en el Fact Checking o verificación de hechos; se refiere a la labor de confirmar y comprobar hechos y datos. © Verificado 2023 - Te conviene saber más",
+  "url": "https://verificado.com.mx/cursos-y-talleres/"
+}

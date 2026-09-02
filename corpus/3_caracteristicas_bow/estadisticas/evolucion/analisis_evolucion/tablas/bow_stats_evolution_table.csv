@@ -1,0 +1,9 @@
+tipo,fase,vocab,tokens,red_vocab_%,red_tokens_%
+bigramas,raw,181504,464934,0.0,0.0
+bigramas,stopwords,76802,114630,57.69,75.34
+bigramas,freq,4361,35041,97.6,92.46
+bigramas,stem,4181,35041,97.7,92.46
+unigramas,raw,28727,472134,0.0,0.0
+unigramas,stopwords,28554,267570,0.6,43.33
+unigramas,freq,11741,246319,59.13,47.83
+unigramas,stem,6347,246319,77.91,47.83

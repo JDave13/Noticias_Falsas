@@ -1,0 +1,25 @@
+# REPORTE RESUMEN - DETECCION NOTICIAS FALSAS
+==================================================
+
+## MEJOR CONFIGURACION
+Algoritmo: Regresión Logística
+Ponderación: TO
+Reducción: ninguna
+F1-Score: 0.8846
+
+## TOP 5 CONFIGURACIONES
+1. Regresión Logística + TO + ninguna: 0.8846
+2. Árboles de Decisión + TO + stopwords: 0.8812
+3. Regresión Logística + TO + stopwords: 0.8783
+4. Regresión Logística + TF-IDF + stopwords: 0.8729
+5. Regresión Logística + TO + ambas: 0.8721
+
+## RENDIMIENTO POR ALGORITMO
+K Vecinos más Cercanos: mu=0.6827, max=0.7851, min=0.5557
+Máquina de Vectores de Soporte: mu=0.8455, max=0.8664, min=0.8323
+Regresión Logística: mu=0.8703, max=0.8846, min=0.8569
+Árboles de Decisión: mu=0.8643, max=0.8812, min=0.8528
+
+## COMPARACION PONDERACIONES
+TF-IDF: mu=0.8283 +/-0.0535
+TO: mu=0.8031 +/-0.1136

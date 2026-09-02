@@ -1,0 +1,202 @@
+[
+  {
+    "id": "86a1ffc76c4d",
+    "label": 1,
+    "title": "En el mundo hay más niños con sobrepeso que con bajo peso por primera vez en la historia: ¿cuál es la situación en América Latina?",
+    "description": "El informe muestra que aproximadamente uno de cada diez niños de entre 5 y 19 años vive con obesidad.",
+    "body": "Por primera vez, en el mundo hay más niños con obesidad que con bajo peso, según un amplio estudio realizado por la organización de Naciones Unidas para la infancia, Unicef.\nEl informe muestra que aproximadamente uno de cada diez niños de entre 5 y 19 años (unos 188 millones de niños y jóvenes) viven con obesidad.\nLa investigación se basó en datos de más de 190 países y concluyó que mientras la prevalencia de bajo peso entre los niños y adolescentes disminuyó desde el año 2000, las tasas de obesidad se triplicaron.\nLos investigadores atribuyen este fenómeno al cambio de las dietas tradicionales a otras con una fuerte dependencia de alimentos ultraprocesados, relativamente baratos y ricos en calorías.\n\"Este dramático cambio en el panorama de la malnutrición pone en peligro la salud y el potencial futuro de los niños, las comunidades y las naciones\", señala el informe.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cly0edg8eeyo"
+  },
+  {
+    "id": "55c369408ec2",
+    "label": 1,
+    "title": "La \"superautopista\" marina que los carteles sudamericanos usan para enviar droga a Reino Unido y Europa a través de Irlanda",
+    "description": "Una operación en la que las autoridades irlandesas decomisaron más de dos toneladas de cocaína expuso la ruta que los narcotraficantes están utilizando para enviar droga a Europa.",
+    "body": "El mensaje de texto provenía de Dubái con un emoji de Papá Noel. \"Bien, chicos. No hace falta suerte. De verdad, esto no podría ser más sencillo. Relájense y pronto terminará\".\nEl recado iba dirigido a un pescador ucraniano y a un hombre desempleado de Teesside (localidad al noreste de Inglaterra) que navegaban hacia el centro del Mar de Irlanda para recoger cocaína de un carguero que pasaba por allí, el MV Matthew.\nResultó que necesitaban mucha suerte y que nada era sencillo.\nLos dos hombres formaban parte de un audaz intento de contrabandear más de 2,2 toneladas de cocaína a Reino Unido y Europa. La tentativa fracasó, gracias a un exitoso golpe de las autoridades irlandesas contra los poderosos carteles de la droga.\nOcho hombres fueron condenados a 129 años de prisión. Toda la cocaína fue destruida.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cdx2e7ydlpvo"
+  },
+  {
+    "id": "10be94da92e8",
+    "label": 1,
+    "title": "Del zapato de Kruschev al \"huele a azufre\" de Chávez: 8 de los discursos más polémicos en los 80 años de historia de la ONU",
+    "description": "Este septiembre se realiza la sesión anual número 80 del debate de alto nivel de la Asamblea General de la ONU, al que cada año acuden mandatarios de más de un centenar de países de todo el mundo.",
+    "body": "El debate de la Asamblea General es el foro diplomático por excelencia, al que acuden los gobiernos de todo el mundo con el objetivo de fijar su posición sobre la actualidad internacional y, sobre todo, intentar dar mayor resonancia a los temas de su agenda diplomática.\nAunque cada año asisten en promedio poco más de un centenar de mandatarios, así como decenas de ministros de exteriores y otros altos funcionarios, muy pocos logran que sus palabras tengan eco más allá de las fronteras de sus países o de sus regiones de influencia.\nEste 2025, cuando se cumplen 80 años de la fundación de la ONU, BBC Mundo te ofrece una mirada a las intervenciones más impactantes ocurridas en la Asamblea General, cuyos debates se inician este año el 23 de septiembre.\nEl 26 de septiembre de 1960, apenas 19 meses después del triunfo de la Revolución cubana, Fidel Castro se presentó ante la Asamblea General de la ONU y se aseguró un lugar en el Libro Guinness de los Récords.\n¿La razón? Pronunció un discurso de 4 horas y 29 minutos. El más largo en toda la historia de la ONU.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cvgvdg32pzyo"
+  },
+  {
+    "id": "d31edec72676",
+    "label": 1,
+    "title": "\"El olor a cadáver era espantoso. Eso no se te olvida nunca\": 40 años del devastador terremoto de CDMX",
+    "description": "Gabino Lezama era un arquitecto que colaboraba con un gobierno local de Ciudad de México cuando ocurrió el devastador terremoto de 1985. Registró en sus fotos y su memoria el drama que vivió la capital hace 40 años.",
+    "body": "Gabino Lezama es un arquitecto que vivió el terremoto de magnitud 8,1 ocurrido en la Ciudad de México el 19 de septiembre de 1985 a las 07:19 de la mañana.\nEse sismo fue el más catastrófico en la capital mexicana hasta la fecha, con más de 200 edificios colapsados y una cifra oficial de unos 3.000 muertos que ha sido cuestionada durante años.\nComo jefe de supervisión de obras civiles en la alcaldía Benito Juárez, en el centro-sur de la ciudad, Lezama se dio a la tarea de registrar los daños que causó el terremoto en esa demarcación tomando un centenar de fotografías.\nCon motivo del 40º aniversario del devastador sismo que sacudió la capital mexicana, te presentamos el testimonio de Lezama y las imágenes que tomó de la catástrofe.\nCuando ocurrió el sismo, yo estaba por salir de la casa.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c07vzmjz11zo"
+  },
+  {
+    "id": "116fda66df66",
+    "label": 1,
+    "title": "\"Se veían muchos muertos en la selva\": los cientos de cuerpos recuperados en el Darién que las autoridades de Panamá tratan de identificar",
+    "description": "Casi un millón de migrantes cruzaron por la inhóspita selva del Darién entre 2022 y 2024, pero muchos pagaron el precio más alto. Ahora Panamá trata de identificar a algunas de las víctimas de la travesía.",
+    "body": "La migración masiva que se produjo en los últimos años a través de la inhóspita selva del Darién, en Centroamérica, se cobró el precio más alto para muchas familias.\nCientos de migrantes perdieron la vida en las peligrosas rutas que atraviesan esta región de Panamá que hace frontera con Colombia, que tan solo entre 2022 y 2024 casi un millón de hombres, mujeres y niños cruzaron a pie en su intento por llegar a Estados Unidos.\nAutoridades y grupos humanitarios afirman que es difícil calcular el número de vidas que quedaron en el camino: algunos cuerpos han sido recuperados, pero muchos de los fallecidos fueron enterrados en la selva por los propios migrantes y otros quedaron abandonados a la intemperie.\n\"Muchos… casi todos con los que pude hablar, reportaban que habían visto muchos cuerpos de migrantes fallecidos a lo largo del tránsito en la selva\", asegura Edwin Viales, monitor regional para las Américas del Proyecto Migrantes Desaparecidos de la Organización Internacional para las Migraciones (OIM) de la ONU.\n\"Un migrante venezolano contó que había intentado ayudar a una mujer africana en la selva. Pero él, al venir con familia y otros miembros de su grupo, no podía quedarse a atenderla. Y la mujer africana falleció ahí en la selva. Tristemente es una de las dinámicas comunes. Muchos relatos convergen en la pérdida de compañeros de viaje\", explica Viales.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c33rdvz1l4ro"
+  },
+  {
+    "id": "9245bc987d1b",
+    "label": 1,
+    "title": "\"La presencia militar de EE.UU. en el Caribe es una desproporción. La mayoría del narcotráfico va por el Pacífico\": Yolanda Villavicencio, canciller de Colombia, en entrevista con BBC Mundo",
+    "description": "En medio de una agresiva política de EE.UU. contra el narcotráfico en América Latina, la canciller de Colombia conversa con BBC Mundo y expresa su rechazo.",
+    "body": "Rosa Yolanda Villavicencio (Bogotá, 1962) lleva desde el 8 de julio al frente de la Cancillería de Colombia.\nEn poco más de dos meses la canciller ha tenido que manejar una disputa diplomática con Perú por la soberanía en el Amazonas, la cuestionada relación con Venezuela y la primera \"descertificación\" en política antidrogas en tres décadas por parte de Estados Unidos, una decisión que Bogotá considera \"política\" y que podría costarle millones de dólares al país sudamericano.\nAnalistas consultados por BBC Mundo concuerdan en que en Colombia se vive una 'reformulación' de la política exterior impulsada por el gobierno de Gustavo Petro.\nHay frases de Villavicencio que denotan esa transformación.\n\"Un diálogo de tú a tú. Es lo que queremos con EE.UU. y con cualquier región del mundo. Y, si tenemos que decirles que no estamos de acuerdo con su política de drogas, que es fracasada (...) ya se lo hemos dicho\", le dice Villavicencio a BBC Mundo, cuestionada sobre la tensa relación actual entre Bogotá y Washington.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cly1rz0x7n5o"
+  },
+  {
+    "id": "7b5a08485ecf",
+    "label": 1,
+    "title": "Por qué Costa Rica se convirtió en la nación con el mayor aumento de millonarios extranjeros en América Latina y qué efectos provoca en el país",
+    "description": "El país se ha convertido en un imán de personas con patrimonio elevado, especialmente después de la pandemia. En zonas costeras hay propiedades cuyo precio ha subido hasta 400% en los últimos años.",
+    "body": "Costa Rica es el país con el mayor aumento de millonarios extranjeros en América Latina durante la última década, según un ránking sobre la migración de personas de elevado patrimonio.\nDe acuerdo al informe \"Migración de Patrimonio Privado 2025\", elaborado por la consultora Henley & Partners, la velocidad de crecimiento fue de un 76% en los últimos 10 años, ubicando al país en el sexto lugar del ránking mundial.\nLa consultora con sede en Londres, que comercializa programas de venta de pasaportes y permisos de residencia en más de 40 países, estima que al país centroamericano han emigrado unos 8.400 extranjeros afluentes y proyecta que este año llegarán unos 350 más.\nEl análisis define a un millonario como una persona con un patrimonio superior a US$1 millón en \"activos líquidos\" (bienes y valores que se pueden convertir fácilmente en dinero en efectivo, como por ejemplo, acciones, fondos en cuentas bancarias, certificados de depósito o bonos), excluyendo otros bienes como propiedades.\nSi bien el informe considera el aumento de estos expatriados durante la última década, el gran salto migratorio en Costa Rica se produjo después de la pandemia, un hito que marcó un antes y un después en el flujo de millonarios al país, dice Andrés Riggioni, socio director de la empresa The Agency Costa Rica, una firma inmobiliaria enfocada en el mercado de lujo.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c930gqz4ddwo"
+  },
+  {
+    "id": "1584b02e6e4e",
+    "label": 1,
+    "title": "30 años del \"escorpión\" del arquero colombiano René Higuita en Wembley, la jugada que hechizó a Inglaterra",
+    "description": "En un partido amistoso de bajo interés, el controvertido entonces portero de la selección nacional de Colombia inscribió su nombre en los libros de historia deportiva.",
+    "body": "La idea le vino a René Higuita mientras filmaba un anuncio de televisión para una bebida gaseosa con unos niños en Colombia. Uno de ellos hizo malabares con un balón en el aire y lo remató con una chilena hacia el portero, quien instintivamente lanzó ambas piernas hacia atrás y lo despejó.\nDos años después, tras haberlo convertido en su truco para los entrenamientos y calentamientos, las estrellas se alinearon para que Higuita hiciera historia bajo los difusos focos del Wembley.\nEl disparo fallido del centrocampista inglés Jamie Redknapp se desvió dócilmente hacia el portero, ya conocido por su estilo extravagante, quien lo vio caer por encima de su cabeza antes de lanzarse hacia adelante y sacudir los talones como la cola de un escorpión.\nEra el \"balón perfecto\", recuerda Higuita en su documental de Netflix \"Higuita: El Camino del Escorpión\".\n\"Pensé: 'no hay problema'. Y salió perfecto\", dice.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c2036yyx2vgo"
+  },
+  {
+    "id": "259f997da6ae",
+    "label": 1,
+    "title": "\"Si ponen en peligro nuestra seguridad, serán derribados\": la advertencia de Trump a Maduro por el sobrevuelo de cazas venezolanos sobre barcos de EE.UU.",
+    "description": "El presidente venezolano, Nicolás Maduro, afirma que las \"diferencias\" entre los  dos países no justifican un \"conflicto militar\".",
+    "body": "El presidente de Estados Unidos, Donald Trump, afirmó que si aviones venezolanos sobrevuelan barcos de la Armada estadounidense y \"ponen en peligro nuestra seguridad, serán derribados\".\nEsta advertencia ocurre después de que, por segunda vez en dos días, aviones militares venezolanos sobrevolaran un buque estadounidense desplegado en el mar Caribe frente a las costas de Sudamérica, según informaron funcionarios estadounidenses a CBS News, cadena asociada a la BBC en EE.UU.\nEstos incidentes se producen luego de que esta semana, las fuerzas estadounidenses atacaron un barco que, según funcionarios de ese país, transportaba droga desde Venezuela y era operado por una organización criminal, lo que resultó en la muerte de 11 personas.\nEl presidente venezolano, Nicolás Maduro, ha afirmado que las acusaciones de Estados Unidos contra su país son falsas y que las diferencias entre ambos países no justifican un conflicto militar.\n\"Venezuela siempre ha estado dispuesta a dialogar, pero exigimos respeto\", dijo Maduro.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c203g76n8wlo"
+  },
+  {
+    "id": "e2cce4022f77",
+    "label": 1,
+    "title": "Por qué la sentencia a la cúpula de las FARC y a 12 exmilitares es un hito en Colombia (y la controversia que generan las sanciones impuestas)",
+    "description": "La JEP, órgano creado tras los acuerdos de paz, emite las primeras sentencias contra exlíderes de las FARC y exmilitares, aunque el desenlace no convence a la totalidad de colombianos.",
+    "body": "Semana histórica en Colombia.\nCasi nueve años después de la firma de los acuerdos de paz entre el gobierno y las Fuerzas Armadas Revolucionarias de Colombia (FARC), el mecanismo de justicia transicional Jurisdicción Especial para la Paz (JEP) condenó a siete líderes de la desmovilizada guerrilla izquierdista y a 12 exmilitares por crímenes cometidos durante el conflicto armado.\nLos exmilitares fueron sentenciados este jueves a un máximo de ocho años de trabajos restaurativos al ser hallados responsables de los asesinatos y desapariciones forzadas de 135 personas, reportados ilegalmente como guerrilleros o delincuentes caídos en combate o \"falsos positivos\".\nPor su parte, los exguerrilleros fueron condenados el 16 de septiembre a ocho años de acciones reparadoras por su política de secuestros durante el conflicto armado.\nLas medidas incluyen labores como la búsqueda de personas desaparecidas, desminado humanitario y sustitución de cultivos.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cvgrq02jvzgo"
+  },
+  {
+    "id": "2a4d54b4c863",
+    "label": 1,
+    "title": "Por qué los ataques militares de EE.UU. a barcos de Venezuela son vistos como una escalada \"radical\" de su guerra contra las drogas (y qué significan para México)",
+    "description": "El uso del descomunal poder fuego de las fuerzas armadas estadounidenses contra presuntos narcos en el Hemisferio Occidental plantea riesgos, según expertos.",
+    "body": "Más de medio siglo después de declarar una \"guerra a las drogas\" que sigue sin ganar, Estados Unidos comenzó a usar el poder de fuego descomunal de su ejército contra presuntos narcos en el Hemisferio Occidental.\nEl presidente Donald Trump anunció este viernes que las fuerzas armadas estadounidenses lanzaron un nuevo ataque letal en el Caribe contra un barco que, sostuvo, llevaba drogas en aguas internacionales.\nEl ataque dejó a tres hombres muertos, afirmó Trump y los calificó como \"narcoterroristas\".\nDe acuerdo con declaraciones previas del presidente, esta sería la cuarta embarcación atacada por EE.UU. en el Caribe por supuestamente transportar drogas.\nEl primero de los ataques ocurrió el 2 de septiembre. En esa ocasión, murieron 11 personas en una lancha procedente de Venezuela, según información dada por Trump.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cr5q808e6e9o"
+  },
+  {
+    "id": "e136ff40d73d",
+    "label": 1,
+    "title": "Jair Bolsonaro condenado: el plan golpista que hundió al expresidente de Brasil y cómo queda ahora su movimiento de extrema derecha",
+    "description": "El Supremo brasileño castiga a Bolsonaro con 27 años de prisión por intento de golpe de Estado y otros cuatro delitos, una decisión histórica que puede tener varios efectos.",
+    "body": "Hubo señales públicas y complots secretos. Un documento planteaba ignorar las elecciones y declarar el estado de sitio. Y un plan impreso preveía asesinar al presidente electo, su vicepresidente y un juez, con balas o veneno.\nLas pruebas de que existió una conspiración en Brasil para quebrar la mayor democracia de América Latina llevaron a la justicia del país a condenar al expresidente Jair Bolsonaro a 27 años y tres meses de prisión este jueves.\nEl Supremo Tribunal Federal, la mayor corte brasileña, decidió por una mayoría de cuatro jueces de cinco que Bolsonaro es culpable de intento de golpe de Estado y otros delitos, en una decisión histórica.\nLos abogados defensores de Bolsonaro anunciaron este jueves que apelarán la sentencia hasta en ámbitos internacionales.\n\"La defensa considera que las condenas impuestas son increíblemente excesivas y desproporcionadas y (...) presentará los recursos correspondientes, incluso a nivel internacional\", dijo el asesor de Bolsonaro, Fabio Wajngarten, en un comunicado publicado en redes sociales.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c059lq1dzqlo"
+  },
+  {
+    "id": "793d157c5fa6",
+    "label": 1,
+    "title": "Cómo Juancho, un caimán del Orinoco, juega desde Dallas un papel clave para impedir la extinción de su especie",
+    "description": "La historia del reptil está llena de viajes inusuales para alguien de su especie, los cuales incluyeron un zoológico familiar improvisado en el oriente de Venezuela, lejos de su hábitat natural, y terminaron en EE.UU.",
+    "body": "\"Crecí como la hermanita de Tarzán\".\nAsí describe la periodista venezolana Cecilia González su infancia, pues, a diferencia de otros niños, no tuvo un perro, un gato o algún ave como mascota.\n\"La casa era un zoológico\", dice, mientras asegura que el patio de la propiedad de sus padres, en la localidad costera de Carúpano, a 530 kilómetros al este de Caracas, albergó monos, un oso hormiguero, perezas (osos perezosos), chigüires (capibaras) y numerosas aves de corral.\nLos animales, muchos de los cuales fueron llevados por vecinos que los rescataron o ya no podían hacerse cargo de ellos, estaban en libertad, salvo uno: un caimán (cocodrilo).\nEl reptil, al que bautizaron como Juancho, no era un cocodrilo cualquiera. Se trataba de un caimán del Orinoco ( Crocodylus intermedius ), el cual es considerado como uno de los mayores depredadores de América Latina.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c9d0w610lw0o"
+  },
+  {
+    "id": "d8af4425c7c8",
+    "label": 1,
+    "title": "Grito de Dolores: 5 mitos y verdades del hito que marca el inicio de la independencia de México",
+    "description": "El \"Grito de Dolores\" ocurrió la madrugada del 16 de septiembre de 1810, aunque el mito popular lo celebra la noche del 15. Pronunciado por Miguel Hidalgo fue un llamado a levantarse contra el mal gobierno español.",
+    "body": "La noche de cada 15 de septiembre los mexicanos tienen su fiesta más importante del año.\nCelebran la independencia de la corona española a través de la conmemoración de un suceso histórico ocurrido en 1810 en una pequeñísima población llamada Dolores, en la intendencia de Guanajuato.\nEn ese lugar, el sacerdote Miguel Hidalgo y Costilla hizo repicar las campanas de su parroquia para que la gente se reuniera y escuchara su llamado a la rebelión contra el gobierno de la Nueva España.\nEse hecho se convirtió en el histórico \"Grito de Dolores\" del cura Hidalgo, el cual marcó el inicio de la lucha independentista de lo que luego se convertiría en México.\nSin embargo, a más de 200 años de ese suceso, aún existen divergencias en los libros de la historia de la independencia mexicana.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cn8347229yjo"
+  },
+  {
+    "id": "47810505323b",
+    "label": 1,
+    "title": "Por qué el despliegue del ejército de EE.UU. en el Caribe y los ejercicios militares reavivan una tensión histórica en Puerto Rico",
+    "description": "Puerto Rico, territorio estadounidense desde 1898, es considerado un bastión estratégico por el país norteamericano. Pero allí se han gestado movimientos en contra del militarismo en el pasado.",
+    "body": "\"No estamos de acuerdo con la presencia militar y, de ser necesario, volveremos a luchar por nuestro pueblo\".\nAndrea Malavé vive en Vieques, una isla municipio del este de Puerto Rico donde la Marina de Estados Unidos realizó ejercicios con munición viva durante más de 60 años.\nDos décadas después del cese de esas operaciones, Malavé, de 26 años y trabajadora de varias ONGs, asegura que entre los locales persiste una profunda preocupación.\nTemen que los recientes despliegues militares de EE.UU. en el Caribe, parte de la estrategia del presidente Donald Trump contra el narcotráfico, traigan de vuelta a los soldados a su comunidad.\nY con ellos, los entrenamientos bélicos cuyas secuelas aún afectan a los viequenses, interrumpidos sólo tras un estallido social a finales de los años 90, que inició luego de que un soldado mató por error a un residente con una bomba.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/ce86d2er6xgo"
+  },
+  {
+    "id": "75de11a108e0",
+    "label": 1,
+    "title": "Trump afirma que EE.UU. ya destruyó 3 embarcaciones con drogas procedentes de Venezuela",
+    "description": "En un mensaje en Truth Social, el mandatario estadounidense dijo que la embarcación estaba en aguas internacionales en dirección hacia EE.UU.",
+    "body": "El presidente de Estados Unidos, Donald Trump, afirmó este martes que su país ha derribado tres embarcaciones procedentes de Venezuela que supuestamente estaban transportando drogas.\n\"Dejen de enviar drogas a Estados Unidos\", le dijo Trump a la prensa a las afueras de la Casa Blanca, antes de abandonar Washington destino a Londres, en el marco de una visita de Estado a Reino Unido.\n\"Derribamos de hecho tres barcos, no dos, pero ustedes vieron dos\", añadió sin proporcionar detalles adicionales sobre el tercer ataque.\nA prinicipios de septiembre, EE.UU. lanzó un primer \"ataque letal\" a una embarcación procedente de Venezuela que supuestamente llevaba drogas hacia EE.UU. Dicho ataque dejó 11 personas muertas, según Trump.\nApenas este lunes, el presidente estadounidense había informado que su país realizó un segundo ataque a una segunda embarcación, en el que murieron tres hombres a los que calificó como \"terroristas\".\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c1jz5x4gl99o"
+  },
+  {
+    "id": "633a84015f42",
+    "label": 1,
+    "title": "\"No corro, no grito, no empujo\": qué cambió en Ciudad de México tras el devastador terremoto que dejó miles de muertos hace 40 años",
+    "description": "El terremoto de magnitud 8,1 que sacudió a Ciudad de México en 1985 expuso lo vulnerable y poco preparada que estaba la capital mexicana ante un evento como ese. El sismo marcó un antes y un después para el país.",
+    "body": "Las 07:19 de la mañana fue una hora que abrió los ojos de Ciudad de México en varios sentidos hace 40 años.\nA esa hora del 19 de septiembre de 1985, un potente terremoto de magnitud 8,1 originado a unos 400 km en la costa del Pacífico, uno de los más grandes registrados en la historia de la región, sacudió durante unos 90 segundos a la capital mexicana.\nFue un minuto y medio que expuso lo poco preparadas que estaba la población, la infraestructura y las autoridades de CDMX ante un terremoto de gran magnitud en una zona de por sí vulnerable por el terreno en donde fue construida la ciudad.\n\"Antes de 1985 no se sabía, ni se tenía una idea clara de lo dramáticas que podían ser las sacudidas de la ciudad, principalmente por la naturaleza del suelo en que está asentada gran parte de ella, que son sedimentos lacustres de antiguos lagos\", explica Víctor Cruz Atienza, científico del Instituto de Geofísica de la Universidad Nacional Autónoma de México (UNAM).\n\"Esos suelos tan blandos, saturados en agua, lo que producen es una amplificación brutal, descomunal, del movimiento sísmico, que puede ser de 300 a 500 veces más grande en la zona lacustre que fuera\", añade el especialista en fenómenos sísmicos.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cy0v8jyvw0lo"
+  },
+  {
+    "id": "34717e0d8eea",
+    "label": 1,
+    "title": "Bolivia aprueba una histórica ley que prohíbe sin excepciones el matrimonio con menores de 18 años",
+    "description": "La Cámara de Diputados aprobó este miércoles una ley que modifica el Código de las Familias que permitía casarse a los 16 años con permiso de los padres.",
+    "body": "María* tenía 14 años cuando sus padres le recomendaron casarse con un hombre con el doble de su edad. Poco después quedó embarazada, el parto se complicó y su marido se marchó, dejándola sola con el recién nacido.\nEl Código de las Familias que regía en Bolivia establecía los 18 años como edad mínima para casarse, pero permitía que adolescentes de 16 y 17 años contrajeran matrimonio con autorización de sus padres o tutores.\nEste miércoles, la Cámara de Diputados aprobó una ley que elimina toda excepción para el matrimonio de menores de edad.\n\"Es un hecho histórico que implica un paso enorme y fundamental en la defensa de los derechos de los niños, niñas y adolescentes en Bolivia\", sostuvo Jimena Tito, de la organización Save the Children, en conversación desde La Paz con BBC Mundo.\nEntre 2014 y 2024, la Defensoría del Pueblo registró más de 4.800 matrimonios adolescentes y uniones tempranas de personas de 16 y 17 años.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cge2q52e54qo"
+  },
+  {
+    "id": "58b75077b708",
+    "label": 1,
+    "title": "\"Trump es el presidente de Estados Unidos, no el emperador del mundo\": Luiz Inácio Lula da Silva en entrevista con la BBC",
+    "description": "En entrevista exclusiva con la BBC, el mandatario brasileño criticó duramente a su par de EE.UU., a quien acusa de tener un comportamiento nocivo hacia las instituciones democráticas en el mundo.",
+    "body": "\"Lo único que sé es que es el presidente de Estados Unidos de América. Él no es el emperador del mundo\".\nEn esos términos habló el presidente de Brasil, Luis Inácio Lula da Silva, acerca de su homólogo estadounidense, Donald Trump, en una entrevista exclusiva con BBC News y BBC News Brasil, realizada este miércoles en el Palacio de la Alvorada, su residencia oficial.\nDurante la conversación, Lula dirigió duras críticas a Trump, a quien acusó de tener  un comportamiento nocivo hacia las instituciones democráticas. \"Trump ha negado todo lo que comúnmente sabemos sobre el respeto a las instituciones democráticas en el mundo\", dijo.\nTambién acusó a Washington de haber impuesto aranceles a los productos de Brasil de forma unilateral sobre la base de mentiras.\n\"Ellos no quieren hablar. No quieren multilateralismo, quieren unilateralismo. Así que, cuando quieran hablar, Brasil está dispuesto a hacerlo\", afirmó, y advirtió que \"el pueblo estadounidense pagará por los errores del presidente Trump en su relación con Brasil\".\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cvgv8k9yl5go"
+  },
+  {
+    "id": "4d617329b8a5",
+    "label": 1,
+    "title": "El día que las mujeres se rebelaron contra el servicio militar obligatorio en Brasil",
+    "description": "En el siglo XIX, poco después de la Guerra de la Triple Alianza, en el norte de Brasil tuvo lugar un episodio conocido como el Motín de las Mujeres.",
+    "body": "Armadas con piedras, cuchillos, ollas, sartenes y utensilios domésticos, unas 300 mujeres de Mossoró, Río Grande del Norte (Brasil), tomaron las calles de la ciudad, destruyeron los avisos colocados en las puertas de la iglesia principal y vandalizaron las oficinas del periódico local.\nConocido como el Motín de las Mujeres, el episodio ocurrido hace 150 años, el 30 de agosto de 1875, tuvo un objetivo y una causa.\nEl objetivo fue el decreto imperial promulgado ese año que regulaba el reclutamiento militar tanto para el Ejército como para la Marina.\nLa causa fue el miedo que el reclutamiento infundió en las mujeres después de que muchas de ellas enviudaran o perdieran a sus hijos en la Guerra del Paraguay (conocida también como Guerra de la Triple Alianza), un sangriento conflicto que tuvo lugar entre 1864 y 1870.\nLa propia legislación, de hecho, también fue una respuesta —tardía— a las cicatrices dejadas por la guerra.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cd6nd557gxyo"
+  },
+  {
+    "id": "1ace15c7d27d",
+    "label": 1,
+    "title": "Qué significa que EE.UU. retire a Colombia la certificación en la lucha contra el narcotráfico y qué tiene que ver la tensa relación entre Trump y Petro",
+    "description": "Cada año Estados Unidos certifica la lucha antidrogas de varios países. De esa certificación dependen millones de dólares y Colombia no la ha logrado por primera vez en 30 años.",
+    "body": "Enfriamiento y alivio a partes iguales en las relaciones entre Estados Unidos y Colombia.\nPor primera vez en tres décadas, el gobierno estadounidense eliminó este lunes al país sudamericano de la lista de naciones que luchan contra el narcotráfico.\nSin embargo, a la vez, el gobierno de Trump emitió una exención de las sanciones que habrían provocado importantes recortes de la ayuda a Colombia, citando intereses nacionales vitales de Washington.\n\"El presidente de Estados Unidos (Donald Trump) ha determinado que el gobierno colombiano no ha conseguido cumplir sus obligaciones para el control de drogas, pero ha emitido una exención para que la cooperación crítica, incluyendo en antinarcóticos, continúe\", expresó la cuenta del Departamento de Estado estadounidense en X.\nHoras antes, el presidente de Colombia había adelantado la decisión del gobierno de Trump.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cn0xgj25vnno"
+  },
+  {
+    "id": "c065fb90e9d1",
+    "label": 1,
+    "title": "Qué se sabe del Cartel de los Soles, la organización designada como terrorista por EE.UU. y acusada de tener su base en las Fuerzas Armadas de Venezuela",
+    "description": "Expertos consultados por BBC Mundo desentrañan los orígenes y la estructura de esta organización designada como terrorista por Estados Unidos y otros países de América.",
+    "body": "Una organización narcotraficante compuesta por altos funcionarios venezolanos.\nAsí describe el Departamento de Estado de EE.UU. al Cartel de los Soles, presunto grupo criminal que Washington asegura está encabezado por el presidente de Venezuela, Nicolás Maduro.\nEl supuesto cartel ha sido noticia nuevamente este año luego de que en julio el gobierno estadounidense lo designara como una organización terrorista internacional, anunciando sanciones contra sus presuntos integrantes.\nEn agosto, Washington dio un paso más y subió a US$50 millones la recompensa por información que conduzca al arresto de Maduro, convirtiéndolo en el principal objetivo del Programa de Recompensas por Narcóticos (NRP, por sus siglas en inglés).\nOtros países como Argentina, Ecuador, Paraguay y República Dominicana también han catalogado al Cartel de los Soles como una organización terrorista.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c98lz3lp3plo"
+  },
+  {
+    "id": "e5b6503acfcd",
+    "label": 1,
+    "title": "El Supremo de Brasil condena a Bolsonaro  a 27 años de prisión por intento de golpe de Estado tras perder las elecciones de 2022",
+    "description": "La defensa de Bolsonaro anunció que apelará la sentencia, incluso en ámbitos internacionales",
+    "body": "El Supremo Tribunal Federal de Brasil condenó este jueves al expresidente Jair Bolsonaro a 27 años y 3 meses de prisión por participar en un intento de golpe de Estado, tras haber perdido las elecciones presidenciales de octubre de 2022.\nLa condena al exmandatario, de 70 años de edad, fue posible gracias a los magistrados Cármen Lúcia, Alexandre de Moraes, Flávio Dino y Cristiano Zanin.\nEl quinto juez, Luiz Fux, absolvió a Bolsonaro y propuso anular el caso alegando la supuesta incompetencia del Supremo para juzgarlo.\nLos abogados defensores de Bolsonaro anunciaron este jueves que apelarán la sentencia hasta en ámbitos internacionales.\n\"La defensa considera que las condenas impuestas son increíblemente excesivas y desproporcionadas y (...) presentará los recursos correspondientes, incluso a nivel internacional\", dijo el asesor de Bolsonaro, Fabio Wajngarten, en un comunicado publicado en redes sociales.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c5y87n57mrzo"
+  },
+  {
+    "id": "a640bcfdc34a",
+    "label": 1,
+    "title": "\"Una cosa es que la muerte en México se represente en toda una serie de aspectos y otra es pensar que el mexicano es muy macho y reta a la muerte\"",
+    "description": "El arqueólogo mexicano dirigió numerosos proyectos de investigación, entre los que se destacan el Templo Mayor en Ciudad de México. A sus 84 años, trabaja en un libro sobre la historia de la muerte.",
+    "body": "Antes de convertirse en un referente en el estudio de las culturas mesoamericanas, Eduardo Matos Moctezuma se acercó a la arqueología atraído por los misterios del antiguo Egipto.\nNacido en México en 1940, la carrera diplomática de su padre lo llevó a crecer en Panamá, República Dominicana y Venezuela, hasta que regresó a su país a los 11 años.\nFue en su último año del bachillerato, después de leer un libro de divulgación sobre la historia de la arqueología, cuando decidió que se dedicaría a reconstruir los modos de vida del pasado a partir de los restos materiales de las antiguas civilizaciones.\nFormado en Arqueología por la Escuela Nacional de Antropología e Historia y doctor en Ciencias Antropológicas por la Universidad Nacional Autónoma de México, Matos ha dirigido gran cantidad de excavaciones y dictado clases en distintas instituciones académicas, incluyendo la Universidad de Harvard.\nGanador del premio Princesa de Asturias de Ciencias Sociales en 2022, dirigió el emblemático proyecto Templo Mayor, el lugar donde el imperio azteca o mexica concentraba su poder en su ciudad capital de Tenochtitlan, que ahora es Ciudad de México.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/c2019d6ey6vo"
+  },
+  {
+    "id": "d7c0618fc274",
+    "label": 1,
+    "title": "Henrique Capriles: \"La mayor parte de las personas que quieren una invasión de Estados Unidos no viven en Venezuela\"",
+    "description": "En una entrevista con BBC News Mundo, el dirigente opositor venezolano habla sobre su rechazo a las sanciones económicas y a la posibilidad de una intervención militar en su país. Aboga por una negociación directa entre Donald Trump y Nicolás Maduro para reabrir el juego político y evitar que Venezuela siga la ruta de Cuba o Nicaragua.",
+    "body": "Henrique Capriles ha sido una figura constante en el escenario político venezolano desde 1998, justo el año en el que también irrumpió el chavismo como una fuerza electoral.\nEn esa oportunidad,  Capriles fue electo por primera vez diputado en el Congreso y con apenas 25 años se convirtió en el vicepresidente y, luego, presidente más joven que ha tenido esa institución.\nA partir de entonces, siempre desde la acera de la oposición, Capriles fue sumando cargos de elección popular: fue alcalde del caraqueño municipio de Baruta, gobernador del estado Miranda y, tras ganar unas elecciones primarias de la oposición compitió por la presidencia contra Hugo Chávez (2012) y Nicolás Maduro (2013).\nEsa ruta política no ha estado exenta de obstáculos. En 2004, estuvo preso durante unos cuatro meses en el Helicoide, sede del actual Servicio Bolivariana de Inteligencia (Sebin), en el marco de un proceso en su contra por el asedio contra la Embajada de Cuba en Caracas ocurrido durante la breve salida del poder de Chávez entre el 11 y el 13 de abril de 2002.\nCapriles fue acusado de asaltar la embajada, mientras que él aseguraba que intentaba mediar entre los manifestantes antichavistas que trataban de entrar en la sede diplomática y los representantes cubanos. Fue liberado tras una decisión de la Corte Suprema de Justicia.\nFinal de",
+    "url": "https://www.bbc.com/mundo/articles/cev2wdp42jmo"
+  }
+]
